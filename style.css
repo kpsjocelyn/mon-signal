@@ -1,0 +1,50 @@
+/*
+    Projet : Mon Signal
+    Auteur : Jocelyn K.
+    Version : 1.0
+*/
+
+body{
+    background-color: #e0e0e0;
+    font-family: sans-serif;
+    padding: 15px;
+}
+
+.cible{
+    background-color: #202020;
+    width: 64px;
+    height: auto;
+    padding: 41px;
+    border-radius: 80px;
+    border: #ffffff solid 8px;
+    outline: 2px solid #000000;
+}
+
+.lampe{
+    background-color: #303030;
+    width: 64px;
+    height: 64px;
+    border-radius: 32px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.lampe-rouge{
+    background-color: #ff0000;
+}
+
+.lampe-jaune{
+    background-color: #ffc800;
+}
+
+.lampe-verte{
+    background-color: #00c206;
+}
+
+.lampe-violet{
+    background-color: #a400b7;
+}
+
+.lampe-blanche{
+    background-color: #dbdbdb;
+}
